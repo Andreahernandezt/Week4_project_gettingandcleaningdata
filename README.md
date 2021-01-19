@@ -1,7 +1,8 @@
 # Week4_project_gettingandcleaningdata
 
-This is the final assignment for Coursera's Getting and Cleaning Data course
-the run_analysis.R script:
+This is the final assignment for Coursera's Getting and Cleaning Data course.
+
+The run_analysis.R script:
 
 -    Merges the training and the test sets to create one data set.
 -   Extracts only the measurements on the mean and standard deviation for each measurement. 
